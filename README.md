@@ -17,3 +17,16 @@ This book recommendation system is an interactive web app that utilizes Machine 
 - **Streamlit Interface**:
   - Streamlit offers a simple and interactive UI to not only showcase the system but also provide more options like showcasing code to give more insight into the project.
   - The project is split into multiple pages, the main two being to showcase the thought process of processing the data and to test the system.
+
+## Installation
+
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/majid-200/Book-Recommendation-System__Apriori-Algorithm__.git
+   
+2. **Install dependencies**:
+   - Available in the requirements.txt file
+    
+3. **Run the Streamlit web app**:
+   ```bash
+   streamlit run Home.py
