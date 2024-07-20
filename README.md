@@ -30,3 +30,11 @@ This book recommendation system is an interactive web app that utilizes Machine 
 3. **Run the Streamlit web app**:
    ```bash
    streamlit run Home.py
+
+## SCreenshots from the web app
+
+![Screenshot 2024-07-20 112817](https://github.com/user-attachments/assets/fdbf1623-4dfb-4545-8a1f-e5ca4911d24f)
+![Screenshot 2024-07-20 112844](https://github.com/user-attachments/assets/4dfae6ac-b76b-442f-b69b-67a4885c0a17)
+![Screenshot 2024-07-20 112904](https://github.com/user-attachments/assets/7417f7c0-ec48-4e59-9210-aac49315ecce)
+![Screenshot 2024-07-20 112933](https://github.com/user-attachments/assets/2367ef4b-e9e7-4e29-9e53-d28b04514694)
+![Screenshot 2024-07-20 113003](https://github.com/user-attachments/assets/4d6ab364-1e23-4a05-b67c-1b40259c4ceb)
